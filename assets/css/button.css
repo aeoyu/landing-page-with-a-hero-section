@@ -1,0 +1,43 @@
+/* about/service/contact us nav */
+
+nav a:hover {
+    color: #22140e;
+}
+
+button {
+    padding: 10px 15px;
+    width: 100%;
+    align-self: flex-end;
+    color: rgb(82, 82, 82);
+    border: 1px solid #707070;
+    transition-duration: 0.4s;
+}
+
+button:hover {
+    color: #0e0e0e;
+    font-weight: 600;
+    background-color: rgb(255, 240, 218);
+    cursor: pointer;
+}
+
+.socialmedia-footer:hover {
+    color: #004680;
+}
+
+.hero-text a {
+    margin: 2rem;
+    color: rgb(223, 219, 219);
+    background-color: rgba(0, 0, 0, 0.54);
+    transition-duration: 0.4s;
+    border-radius: 5px;
+    padding: 7px;
+}
+
+.hero-text h2 {
+    gap: 1rem;
+}
+
+.hero-text a:hover {
+    margin: 2rem;
+    background-color: rgba(236, 209, 59, 0.267)
+}

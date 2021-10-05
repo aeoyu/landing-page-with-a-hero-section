@@ -1,0 +1,92 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.title {
+    font-size: clamp(2rem, 2.9vw, 1.4rem);
+}
+
+a {
+    font-size: clamp(1.3rem, 2.9vw, 1.4rem);
+}
+
+.aboutus {
+    font-size: clamp(1.9rem, 2.9vw, 1.4rem);
+}
+
+.intro h2 strong {
+    font-size: clamp(1.8rem, 2.9vw, 1.4rem);
+    font-weight: 700;
+}
+
+.intro h3 {
+    font-size: clamp(1.9rem, 2.9vw, 1.4rem);
+    font-weight: 400;
+}
+
+.intro p {
+    font-size: clamp(1.2rem, 1.7vw, 1.4rem);
+    font-weight: 300;
+}
+
+.p-text {
+    font-style: italic;
+}
+
+/* Hero section */
+
+.hero-text a {
+    font-size: 17px;
+}
+
+.hero-text h2 {
+    font-size: 3.4rem;
+}
+
+.hero-text p {
+    font-size: 19px;
+}
+
+/* footer info */
+
+footer {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+.copyright-footer {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    text-align: center;
+    font-size: 14px;
+}
+
+.left-footer {
+    font-size: 14px;
+}
+
+footer h3 {
+    color: (124, 124, 124);
+    font-weight: 300;
+    font-size: 14pt;
+}
+
+footer h4 {
+    color: (124, 124, 124);
+    font-weight: 300;
+    font-size: 13pt;
+}
+
+strong {
+    font-weight: 300;
+    color: (124, 124, 124);
+    font-size: 12 pt;
+}
+
+.hours-of-operation {
+    font-size: 14px;
+}
+
+.copyright-footer {
+    font-weight: 300;
+}
