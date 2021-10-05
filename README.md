@@ -3,11 +3,11 @@
 
 **Author :** Filora Turdi
 
-**Repo Link :** 
+**Repo Link :** https://github.com/aeoyu/cpnt260-a4
 
-**Pages Link :** 
+**Pages Link :** https://aeoyu.github.io/cpnt260-a4/
 
-**Infomation :** Kitchen Restaurant is an calgary local resturant that serves anything from breakfast to dinner food. They opened for business
+**Infomation :** Kitchen Restaurant is an calgary local resturant that serves anything from breakfast to dinner food. They opened for business in 2021. Their target market is for people who enjoy different food experience.
 
 ---
 
@@ -31,8 +31,9 @@
 - [Restaurant bar](https://pixabay.com/photos/restaurant-bar-counter-people-food-690569/?download)
 
 
+
 **Icons** 
 - [Kitchen Restaurant Logo](https://img.icons8.com/small/65/000000/restaurant-building.png)
-- [Facebook Logo](ttps://img.icons8.com/material/30/000000/facebook--v1.png)
+- [Facebook Logo](https://img.icons8.com/material/30/000000/facebook--v1.png)
 - [Twitter Logo](https://img.icons8.com/material/30/000000/twitter--v1.png)
 - [Instagram Logo](https://img.icons8.com/material/30/000000/instagram-new--v1.png)
